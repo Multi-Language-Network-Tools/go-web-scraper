@@ -17,3 +17,6 @@ A simple web scraper written in Go that fetches and parses HTML content using **
 1. Install dependencies:
 ```bash
 go get github.com/PuerkitoBio/goquery
+2. Run the scraper:
+```bash
+go run main.go
